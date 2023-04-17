@@ -7,20 +7,32 @@
       "id" : "_Es_nc9zlEe2zM8auTS1Itw",
       "name" : "destinationdbName"
     }, {
-      "id" : "_Es_ncdzlEe2zM8auTS1Itw",
+      "id" : "_TkM7MN0EEe2eBqY4Rl3Uyg",
       "name" : "destinationHost"
     }, {
-      "id" : "_tMSQEtw9Ee2NfvjBvb1v4w",
-      "name" : "password"
+      "id" : "_TkM7Mt0EEe2eBqY4Rl3Uyg",
+      "name" : "destinationPassword"
     }, {
-      "id" : "_Es_nctzlEe2zM8auTS1Itw",
+      "id" : "_TkM7M90EEe2eBqY4Rl3Uyg",
+      "name" : "destinationPort"
+    }, {
+      "id" : "_TkM7Md0EEe2eBqY4Rl3Uyg",
+      "name" : "destinationUser"
+    }, {
+      "id" : "_TkM7NN0EEe2eBqY4Rl3Uyg",
       "name" : "sourcedbName"
     }, {
-      "id" : "_Es_ncNzlEe2zM8auTS1Itw",
+      "id" : "_TkM7Nd0EEe2eBqY4Rl3Uyg",
       "name" : "sourceHost"
     }, {
-      "id" : "_tMSQEdw9Ee2NfvjBvb1v4w",
-      "name" : "user"
+      "id" : "_TkM7N90EEe2eBqY4Rl3Uyg",
+      "name" : "sourcePassword"
+    }, {
+      "id" : "_TkM7ON0EEe2eBqY4Rl3Uyg",
+      "name" : "sourcePort"
+    }, {
+      "id" : "_TkM7Nt0EEe2eBqY4Rl3Uyg",
+      "name" : "sourceUser"
     } ]
   }, {
     "contextName" : "PROD",
@@ -29,20 +41,32 @@
       "id" : "_Es_nd9zlEe2zM8auTS1Itw",
       "name" : "destinationdbName"
     }, {
-      "id" : "_Es_nddzlEe2zM8auTS1Itw",
+      "id" : "_TkM7Od0EEe2eBqY4Rl3Uyg",
       "name" : "destinationHost"
     }, {
-      "id" : "_tMS3Itw9Ee2NfvjBvb1v4w",
-      "name" : "password"
+      "id" : "_TkM7O90EEe2eBqY4Rl3Uyg",
+      "name" : "destinationPassword"
     }, {
-      "id" : "_Es_ndtzlEe2zM8auTS1Itw",
+      "id" : "_TkM7PN0EEe2eBqY4Rl3Uyg",
+      "name" : "destinationPort"
+    }, {
+      "id" : "_TkM7Ot0EEe2eBqY4Rl3Uyg",
+      "name" : "destinationUser"
+    }, {
+      "id" : "_TkM7Pd0EEe2eBqY4Rl3Uyg",
       "name" : "sourcedbName"
     }, {
-      "id" : "_Es_ndNzlEe2zM8auTS1Itw",
+      "id" : "_TkM7Pt0EEe2eBqY4Rl3Uyg",
       "name" : "sourceHost"
     }, {
-      "id" : "_tMS3Idw9Ee2NfvjBvb1v4w",
-      "name" : "user"
+      "id" : "_TkM7QN0EEe2eBqY4Rl3Uyg",
+      "name" : "sourcePassword"
+    }, {
+      "id" : "_TkM7Qd0EEe2eBqY4Rl3Uyg",
+      "name" : "sourcePort"
+    }, {
+      "id" : "_TkM7P90EEe2eBqY4Rl3Uyg",
+      "name" : "sourceUser"
     } ]
   }, {
     "contextName" : "DEMO",
@@ -51,20 +75,32 @@
       "id" : "_Es_nc9zlEe2zM8auTS1Itw",
       "name" : "destinationdbName"
     }, {
-      "id" : "_Es_ncdzlEe2zM8auTS1Itw",
+      "id" : "_TkM7MN0EEe2eBqY4Rl3Uyg",
       "name" : "destinationHost"
     }, {
-      "id" : "_tMSQEtw9Ee2NfvjBvb1v4w",
-      "name" : "password"
+      "id" : "_TkM7Mt0EEe2eBqY4Rl3Uyg",
+      "name" : "destinationPassword"
     }, {
-      "id" : "_Es_nctzlEe2zM8auTS1Itw",
+      "id" : "_TkM7M90EEe2eBqY4Rl3Uyg",
+      "name" : "destinationPort"
+    }, {
+      "id" : "_TkM7Md0EEe2eBqY4Rl3Uyg",
+      "name" : "destinationUser"
+    }, {
+      "id" : "_TkM7NN0EEe2eBqY4Rl3Uyg",
       "name" : "sourcedbName"
     }, {
-      "id" : "_Es_ncNzlEe2zM8auTS1Itw",
+      "id" : "_TkM7Nd0EEe2eBqY4Rl3Uyg",
       "name" : "sourceHost"
     }, {
-      "id" : "_tMSQEdw9Ee2NfvjBvb1v4w",
-      "name" : "user"
+      "id" : "_TkM7N90EEe2eBqY4Rl3Uyg",
+      "name" : "sourcePassword"
+    }, {
+      "id" : "_TkM7ON0EEe2eBqY4Rl3Uyg",
+      "name" : "sourcePort"
+    }, {
+      "id" : "_TkM7Nt0EEe2eBqY4Rl3Uyg",
+      "name" : "sourceUser"
     } ]
   } ]
 }
